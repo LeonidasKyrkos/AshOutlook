@@ -1,0 +1,14 @@
+C:\DEV\AshOutlook\AshOutlook\bin\Debug\AshOutlook.exe.config
+C:\DEV\AshOutlook\AshOutlook\bin\Debug\AshOutlook.exe
+C:\DEV\AshOutlook\AshOutlook\bin\Debug\AshOutlook.pdb
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook.csprojResolveAssemblyReference.cache
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\MainWindow.baml
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\MainWindow.g.cs
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\App.g.cs
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook_MarkupCompile.cache
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook.g.resources
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook.Properties.Resources.resources
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook.csproj.GenerateResource.Cache
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook.exe
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook.pdb
+C:\DEV\AshOutlook\AshOutlook\obj\Debug\AshOutlook.csproj.ResolveComReference.cache
